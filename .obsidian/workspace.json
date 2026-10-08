@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "ac190f00dfdcbf2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "831ce8170c2aa75b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e70db3791cb87c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дикатен/Самерфол/Враги/Куштар (Мясник Ратна).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Куштар (Мясник Ратна)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f890de52afcd001d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1e1a6dfe4986369",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5876f65a8d8b8d8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1826d00a6aadba56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f6da2e025d8062de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "774aac684720aa77",
+    "type": "split",
+    "children": [
+      {
+        "id": "daada86a44f3ecaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec11b140cef199fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "6cb9354184d008ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "88cf3c1fe4e9290d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "412cff7a8aa729ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "2fa32b3b9cbad327",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "e70db3791cb87c15",
+  "lastOpenFiles": [
+    "Дикатен/Рубиновое пламя/map.jpg",
+    "Дикатен/Самерфол/второстепеные персонажи/Дикатен/Самерфол/Враги/Куштар (Мясник Ратна).md",
+    "Дикатен/Самерфол/второстепеные персонажи/Дикатен/Самерфол/Враги",
+    "Дикатен/Самерфол/второстепеные персонажи/Дикатен/Самерфол",
+    "Дикатен/Самерфол/второстепеные персонажи/Дикатен",
+    "Дикатен/Самерфол/Враги/Куштар (Мясник Ратна).md",
+    "Дикатен/Самерфол/Враги",
+    "Дикатен/Рубиновое пламя/Места/Карта пути.jpg",
+    "Индекс.md",
+    "Дикатен/Самерфол/второстепеные персонажи/Хозяйка арены.md",
+    "Дикатен/Хронология Дикатена.md",
+    "Дикатен/Паутина противостояния/Паутина противостояния.md",
+    "Дикатен/Паутина противостояния/второстепеные персонажи",
+    "Дикатен/Паутина противостояния/Сессии",
+    "Дикатен/Паутина противостояния/Персонажи",
+    "Дикатен/Паутина противостояния/Организации",
+    "Дикатен/Паутина противостояния/Места",
+    "Дикатен/Паутина противостояния",
+    "Дикатен/Рубиновое пламя/второстепеные персонажи/Вельзар Тиагрейв.md",
+    "Дикатен/Рубиновое пламя/второстепеные персонажи/Воскресший демон.md",
+    "Дикатен/Самерфол/Город Самерфол/Подпольная Арена Самерфола.md",
+    "Дикатен/Самерфол/Идеи для персов.md",
+    "Дикатен/Самерфол/Мелкие ивенты.md",
+    "Дикатен/Самерфол/Персонажи игроков.md",
+    "Дикатен/Самерфол/Trader Allaince logo.png",
+    "Дикатен/Самерфол/Pasted image 20240616125530.png",
+    "Дикатен/Самерфол/Идеи для диалогов.md",
+    "Дикатен/Самерфол/Организации/Альянс Затмения.md",
+    "Дикатен/Самерфол/Организации/Организации.md",
+    "Дикатен/Самерфол/Организации/Отряд \"Дикий Зов\".md",
+    "Дикатен/Самерфол/Организации/Гильдия Валькирии.md",
+    "Дикатен/Эликсир с осадком/Сюжет ваншота.md",
+    "Дикатен/Эликсир с осадком/Священная Слеза/Эльфийская деревня Священная Слеза.md",
+    "Дикатен/Эликсир с осадком/второстепеные персонажи/Киира.md",
+    "Дикатен/Эликсир с осадком/второстепеные персонажи/Дариэль.md",
+    "Дикатен/Эликсир с осадком/второстепеные персонажи/Илия.md",
+    "Дикатен/Эликсир с осадком/Источник жизни.md",
+    "Дикатен/Эликсир с осадком/Путь к источнику.md",
+    "Дикатен/Эликсир с осадком/второстепеные персонажи/Геворг.md",
+    "Дикатен/Самерфол/Королевство Сапин/Карта Сапин.png",
+    "Дикатен/Самерфол/Rangs.jpg",
+    "Дикатен/Рубиновое пламя/Самерфол/Trader Allaince logo.png",
+    "Дикатен/Рубиновое пламя/Самерфол/Rangs.jpg",
+    "Дикатен/Рубиновое пламя/Самерфол/Pasted image 20240616125530.png"
+  ]
+}
